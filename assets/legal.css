@@ -1,0 +1,11 @@
+.article address {
+  color: #586d73;
+  font-style: normal;
+}
+
+.legal-todo {
+  background: #fff3da;
+  border-radius: 4px;
+  color: #594423;
+  padding: 1px 4px;
+}
